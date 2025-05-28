@@ -1,3 +1,12 @@
+-- Created by Amirhossein Tonekaboni, SAP Business One Consultant
+-- Date: May 29, 2025
+-- Contact: https://linkedin.com/in/atonekaboni
+-- Version: 1.0
+-- Description: Supercharge your view of Connected Business Partners.
+-- Test in a non-production environment before deployment.
+-- Licensed under MIT License 
+-- AI-Assisted in development and refinement
+
 SELECT
     V.CardCode  AS VendorCode,
     V.CardName  AS VendorName,
